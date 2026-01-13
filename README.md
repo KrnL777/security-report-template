@@ -5,6 +5,7 @@ Um template **simples, direto e profissional** para documentar vulnerabilidades 
 
 A clean and professional template to document vulnerabilities clearly — focused on what matters:
 **Description** (what it is + impact) + **Recommendation** (how to fix + how to validate).
+
 ---
 - 📝 [DESCRICAO.md](./Descricao.md)
 - 🛠️ [RECOMENDACAO.md](./Recimendacao.md)
