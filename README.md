@@ -41,4 +41,5 @@ A clean and professional template to document vulnerabilities clearly — focuse
 ⚠️ Uso responsável / Responsible use
 
 PT: Este material é para uso educacional e profissional em ambientes onde você possui autorização explícita para testar.
+
 EN: This material is for educational and professional use in environments where you have explicit authorization to test.
